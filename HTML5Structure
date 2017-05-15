@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>Website title</title>
+  </head>
+  <body>
+    <h1>Primary Heading</h1>
+    <p>This is a paragraph below the primary heading.</p>
+    <h2>Secondary Heading</h2>
+    <p>This is a paragraph below the secondary heading.</h2>
+  </body>
+</html>  
